@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\bin\Debug\net8.0\Common.Storage.deps.json
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\bin\Debug\net8.0\Common.Storage.runtimeconfig.json
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\bin\Debug\net8.0\Common.Storage.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\bin\Debug\net8.0\Common.Storage.pdb
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.AssemblyInfo.cs
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\refint\Common.Storage.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.pdb
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.genruntimeconfig.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\ref\Common.Storage.dll

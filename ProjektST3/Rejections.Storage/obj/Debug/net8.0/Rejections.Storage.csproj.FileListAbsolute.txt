@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Rejections.Storage.deps.json
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Rejections.Storage.runtimeconfig.json
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Rejections.Storage.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Rejections.Storage.pdb
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Common.Storage.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Common.Storage.pdb
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.AssemblyInfo.cs
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejectio.7317EAD9.Up2Date
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\refint\Rejections.Storage.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.pdb
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.genruntimeconfig.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\ref\Rejections.Storage.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\bin\Debug\net8.0\Profil.CrossCutting.deps.json
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\bin\Debug\net8.0\Profil.CrossCutting.runtimeconfig.json
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\bin\Debug\net8.0\Profil.CrossCutting.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\bin\Debug\net8.0\Profil.CrossCutting.pdb
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.AssemblyInfo.cs
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\refint\Profil.CrossCutting.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.pdb
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.genruntimeconfig.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\ref\Profil.CrossCutting.dll

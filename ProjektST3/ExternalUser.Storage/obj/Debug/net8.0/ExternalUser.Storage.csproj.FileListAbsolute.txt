@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\ExternalUser.Storage.deps.json
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\ExternalUser.Storage.runtimeconfig.json
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\ExternalUser.Storage.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\ExternalUser.Storage.pdb
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\Common.Storage.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\Common.Storage.pdb
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.AssemblyInfo.cs
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\External.FF089F0E.Up2Date
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\refint\ExternalUser.Storage.dll
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.pdb
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.genruntimeconfig.cache
+C:\Users\HP\Documents\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ref\ExternalUser.Storage.dll

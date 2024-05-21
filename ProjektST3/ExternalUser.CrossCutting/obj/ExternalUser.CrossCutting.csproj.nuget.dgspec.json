@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\ExternalUser.CrossCutting\\ExternalUser.CrossCutting.csproj": {}
+    "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.CrossCutting\\ExternalUser.CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\ExternalUser.CrossCutting\\ExternalUser.CrossCutting.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.CrossCutting\\ExternalUser.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\ExternalUser.CrossCutting\\ExternalUser.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.CrossCutting\\ExternalUser.CrossCutting.csproj",
         "projectName": "ExternalUser.CrossCutting",
-        "projectPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\ExternalUser.CrossCutting\\ExternalUser.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\ExternalUser.CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.CrossCutting\\ExternalUser.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

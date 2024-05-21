@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.Api\\Rejections.Api.csproj": {}
+    "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Rejections.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj",
         "projectName": "Common.Storage",
-        "projectPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Common.Storage\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,21 +82,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.Api\\Rejections.Api.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Rejections.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.Api\\Rejections.Api.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Rejections.Api.csproj",
         "projectName": "Rejections.Api",
-        "projectPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.Api\\Rejections.Api.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.Api\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Rejections.Api.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -110,11 +110,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Rejections.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Rejections.CrossCutting.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Rejections.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Rejections.CrossCutting.csproj"
               },
-              "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.Storage\\Rejections.Storage.csproj": {
-                "projectPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.Storage\\Rejections.Storage.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\Rejections.Storage.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\Rejections.Storage.csproj"
               }
             }
           }
@@ -178,21 +178,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Rejections.CrossCutting.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Rejections.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Rejections.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Rejections.CrossCutting.csproj",
         "projectName": "Rejections.CrossCutting",
-        "projectPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Rejections.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Rejections.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -260,21 +260,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.Storage\\Rejections.Storage.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\Rejections.Storage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.Storage\\Rejections.Storage.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\Rejections.Storage.csproj",
         "projectName": "Rejections.Storage",
-        "projectPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.Storage\\Rejections.Storage.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Rejections.Storage\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\Rejections.Storage.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -288,8 +288,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj": {
-                "projectPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj"
               }
             }
           }
@@ -346,7 +346,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

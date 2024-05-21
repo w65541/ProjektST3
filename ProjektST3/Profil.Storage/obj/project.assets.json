@@ -2326,19 +2326,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Profil.Storage\\Profil.Storage.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Profil.Storage\\Profil.Storage.csproj",
       "projectName": "Profil.Storage",
-      "projectPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Profil.Storage\\Profil.Storage.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Profil.Storage\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Profil.Storage\\Profil.Storage.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Profil.Storage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2352,8 +2352,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj": {
-              "projectPath": "C:\\Users\\HP\\Documents\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj"
+            "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj": {
+              "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj"
             }
           }
         }
@@ -2410,7 +2410,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

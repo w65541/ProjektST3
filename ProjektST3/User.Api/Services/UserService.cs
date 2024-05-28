@@ -12,6 +12,15 @@ namespace User.Api.Services
             _dbContext = dbContext;
         }
 
+        public bool Delete(int id) 
+        {
+            Storage.Entities.User entity = _dbContext.Users.Where(e => e.Id == id).FirstOrDefault();
+            if (entity == null) { return false; }
+            _dbContext.Remove(entity);
+            _dbContext.SaveChanges();
+            return true;
+        }
+
         public UserDto GetById(int id)
         {
             Storage.Entities.User entity = _dbContext.Users.Where(e => e.Id == id).FirstOrDefault();

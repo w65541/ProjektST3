@@ -1,0 +1,37 @@
+.btn {
+	background-color: #f1f1f1;
+}
+.btn-outline-success {
+	color: hotpink;
+	border-color: hotpink;
+}
+	.btn-outline-success:not(:disabled):not(.disabled).active, .btn-outline-success:not(:disabled):not(.disabled):active, .show > .btn-outline-success.dropdown-toggle {
+		color: #fff;
+		background-color: hotpink;
+		border-color: #ff79c5;
+	}
+	.btn-outline-success:hover {
+		color: #fff;
+		background-color: hotpink;
+		border-color: #ff79c5;
+	}
+
+#btnyes {
+	background-color: #64cd64;
+	float: left;
+	width: 50%;
+	font-weight: bold;
+}
+
+#btnno {
+	background-color: #e95c5c;
+	float: left;
+	width: 50%;
+	font-weight: bold;
+}
+#btnback {
+	background-color: #f99ccb;
+	float: left;
+	width: 50%;
+	font-weight: bold;
+}

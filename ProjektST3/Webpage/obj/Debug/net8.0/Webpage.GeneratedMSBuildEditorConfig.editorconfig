@@ -22,12 +22,44 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/USER/Documents/GitHub/ProjektST3/ProjektST3/Webpage/Pages/Home/Ind2ex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxJbmQyZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/GitHub/ProjektST3/ProjektST3/Webpage/Pages/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/GitHub/ProjektST3/ProjektST3/Webpage/Pages/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/GitHub/ProjektST3/ProjektST3/Webpage/Pages/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/GitHub/ProjektST3/ProjektST3/Webpage/Pages/Home/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/GitHub/ProjektST3/ProjektST3/Webpage/Pages/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/GitHub/ProjektST3/ProjektST3/Webpage/Pages/Home/UserProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxVc2VyUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/USER/Documents/GitHub/ProjektST3/ProjektST3/Webpage/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USER/Documents/GitHub/ProjektST3/ProjektST3/Webpage/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/GitHub/ProjektST3/ProjektST3/Webpage/Pages/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USER/Documents/GitHub/ProjektST3/ProjektST3/Webpage/Pages/Shared/_ValidationScriptsPartial.cshtml]

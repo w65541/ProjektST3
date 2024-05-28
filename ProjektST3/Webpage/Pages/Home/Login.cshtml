@@ -1,0 +1,55 @@
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<!-- Pierwsza sekcja   -->
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="col-md-7 mb-5">
+            <h2>Logowanie</h2>
+
+            <div class="form-group">
+                <label for="login">Login:</label>
+                <input type="text" class="form-control" id="login" name="login">
+            </div>
+
+            <div class="form-group">
+                <label for="newPassword">Hasło:</label>
+                <input type="password" class="form-control" id="newPassword" name="newPassword">
+            </div>
+            <button class="btn btn-outline-success" id="in">Zaloguj</button>
+            <button class="btn btn-outline-success" id="reg">Nowe konto</button>
+        </div>
+
+    </div>
+
+</div>
+<script>
+        function register() { window.location = '@Url.Action("Register", "Home")';}
+        document.getElementById("in").onclick = function () { login() };
+        document.getElementById("reg").onclick = function () { register() };
+        function login() {
+        $.ajax({
+            type: "GET",
+            url:'@Url.Action("LoginUser", "DatingSite")',
+            data: { login: document.getElementById("login").value, password: document.getElementById("newPassword").value },
+
+            success: function (result) {
+                if (result != 0) {
+                    window.location = '@Url.Action("Index", "Home")' + "?id="+result;
+                } else {
+
+                }
+
+            },
+        error: function () {
+
+            }
+        });
+    }
+</script>
+
+
+
+

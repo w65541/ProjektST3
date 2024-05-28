@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rejections.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+037b95c9787d3c7fe3f0823a8aaeee17e568e870")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25c0d16e82da4175b24e847d06d1ace7a163c80a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rejections.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rejections.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

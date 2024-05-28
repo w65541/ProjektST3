@@ -1,0 +1,72 @@
+@{
+    ViewData["Title"] = "User Profile";
+}
+@using Models
+@model ProfileData
+<!-- Sekcja 2 Szukaj -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 col-lg-12 section search-section">
+            <!--       <h2>Sekcja 2 Szukaj</h2> -->
+            <form class="form-inline">
+                <input class="form-control col-sm-12 col-md-10 col-lg-11" type="search" placeholder="Znajdź" aria-label="Search">
+                <button class="btn btn-outline-success my-12 my-sm-0" type="submit">Szukaj</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- Pierwsza sekcja   -->
+<div class="container-fluid">
+    <div class="row justify-content-center">
+
+        <div class="col-md-4 section user-profile">
+            <h2>Twój Profil</h2>
+            <img src="~/images/ludek2.jpg" alt="Zdjęcie Profilowe">
+            <h4>@Model.Profil.Imie @Model.Profil.Nazwisko</h4>
+            @if (@Model.Profil.Plec == 0)
+            {
+<p><b>Płeć:</b> Mężczyzna</p>}
+else
+{<p><b>Płeć:</b> Kobieta</p>}
+
+            <p><b>Telefon:</b>@Model.Profil.Telefon</p>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="btn-group" role="group">
+            <button class="btn btn-lg mr-2" id="btnback" onClick="back()">Wstecz</button>
+            <button class="btn btn-lg mr-2" id="btnyes">&#129505</button>
+            <button class="btn btn-lg mr-2" id="btnno" onClick="Reject()">&#128148</button>
+        </div>
+    </div>
+</div>
+
+<script>
+	function back() {
+                    window.location = '@Url.Action("Index", "Home")' + "?id="+@Model.IdUser;
+	}
+
+
+
+			function Reject() {
+
+        $.ajax({
+            type: "Get", dataType: 'json',
+            url:'@Url.Action("Reject", "DatingSite")',
+            data: { id1 : @Model.Id, id2: @Model.Profil.Id },
+
+            success: function () {
+                window.location = '@Url.Action("Index", "Home")' + "?id="+@Model.IdUser;
+            },
+        error: function () {
+            alert("Wystąpił błąd sprubój ponownie");
+            location.reload();
+            }
+        });
+    }
+
+</script>

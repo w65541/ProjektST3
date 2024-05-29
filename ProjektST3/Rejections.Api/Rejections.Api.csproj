@@ -21,6 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Common.Api\Common.Api.csproj" />
     <ProjectReference Include="..\Rejections.CrossCutting\Rejections.CrossCutting.csproj" />
     <ProjectReference Include="..\Rejections.Storage\Rejections.Storage.csproj" />
   </ItemGroup>

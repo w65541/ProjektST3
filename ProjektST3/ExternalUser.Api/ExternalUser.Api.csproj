@@ -21,6 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Common.Api\Common.Api.csproj" />
     <ProjectReference Include="..\ExternalUser.CrossCutting\ExternalUser.CrossCutting.csproj" />
     <ProjectReference Include="..\ExternalUser.Storage\ExternalUser.Storage.csproj" />
   </ItemGroup>

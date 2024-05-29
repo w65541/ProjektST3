@@ -102,3 +102,15 @@ C:\Users\HP\Documents\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\refint\Webp
 C:\Users\HP\Documents\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.pdb
 C:\Users\HP\Documents\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.genruntimeconfig.cache
 C:\Users\HP\Documents\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\ref\Webpage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.csproj.AssemblyReference.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.AssemblyInfoInputs.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.AssemblyInfo.cs
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.csproj.CoreCompileInputs.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.MvcApplicationPartsAssemblyInfo.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.RazorAssemblyInfo.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.RazorAssemblyInfo.cs
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.sourcelink.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\refint\Webpage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Webpage\obj\Debug\net8.0\Webpage.pdb

@@ -2783,19 +2783,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\Glowny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj",
+      "projectUniqueName": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj",
       "projectName": "User.Api",
-      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\obj\\",
+      "projectPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj",
+      "packagesPath": "C:\\Users\\Glowny\\.nuget\\packages\\",
+      "outputPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Glowny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2809,11 +2809,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj"
+            "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj": {
+              "projectPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj"
             },
-            "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj": {
-              "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj"
+            "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj": {
+              "projectPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj"
             }
           }
         }
@@ -2877,7 +2877,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

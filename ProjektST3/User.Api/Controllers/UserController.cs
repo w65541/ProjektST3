@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using User.Api.Extensions;
 using User.Api.Services;
 using User.CrossCutting.Dtos;
 
@@ -51,5 +52,34 @@ namespace User.Api.Controllers
 
             return Ok();
         }
+
+        [HttpPut("update/{id}")]
+        public async Task<IActionResult> Update(int id, [FromBody] UserDto updateDto)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            if (updateDto == null)
+            {
+                return BadRequest("Invalid data.");
+            }
+
+            var dto = _service.GetById(id);
+            if (dto == null)
+            {
+                return NotFound();
+            }
+
+            _service.Update(updateDto.ToEntity());
+
+            return Ok();
+        }
+
+
+
+
+
     }
 }

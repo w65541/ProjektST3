@@ -15,3 +15,21 @@ C:\Users\HP\Documents\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\refint
 C:\Users\HP\Documents\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Storage.pdb
 C:\Users\HP\Documents\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Storage.genruntimeconfig.cache
 C:\Users\HP\Documents\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\ref\User.Storage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\bin\Debug\net8.0\User.Storage.deps.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\bin\Debug\net8.0\User.Storage.runtimeconfig.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\bin\Debug\net8.0\User.Storage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\bin\Debug\net8.0\User.Storage.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\bin\Debug\net8.0\Common.Storage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\bin\Debug\net8.0\Common.Storage.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Storage.csproj.AssemblyReference.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Storage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Storage.AssemblyInfoInputs.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Storage.AssemblyInfo.cs
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Storage.csproj.CoreCompileInputs.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Storage.sourcelink.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Sto.04000FA4.Up2Date
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Storage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\refint\User.Storage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Storage.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\User.Storage.genruntimeconfig.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.Storage\obj\Debug\net8.0\ref\User.Storage.dll

@@ -12,3 +12,18 @@ C:\Users\HP\Documents\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\r
 C:\Users\HP\Documents\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\User.CrossCutting.pdb
 C:\Users\HP\Documents\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\User.CrossCutting.genruntimeconfig.cache
 C:\Users\HP\Documents\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\ref\User.CrossCutting.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\bin\Debug\net8.0\User.CrossCutting.deps.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\bin\Debug\net8.0\User.CrossCutting.runtimeconfig.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\bin\Debug\net8.0\User.CrossCutting.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\bin\Debug\net8.0\User.CrossCutting.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\User.CrossCutting.csproj.AssemblyReference.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\User.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\User.CrossCutting.AssemblyInfoInputs.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\User.CrossCutting.AssemblyInfo.cs
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\User.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\User.CrossCutting.sourcelink.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\User.CrossCutting.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\refint\User.CrossCutting.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\User.CrossCutting.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\User.CrossCutting.genruntimeconfig.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\User.CrossCutting\obj\Debug\net8.0\ref\User.CrossCutting.dll

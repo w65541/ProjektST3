@@ -1,4 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Common.Api;
+using Common.CrossCutting.Dtos;
+using Common.CrossCutting.Enums;
+using Microsoft.EntityFrameworkCore;
 using Rejections.Api.Extensions;
 using Rejections.CrossCutting.Dtos;
 using Rejections.Storage;
@@ -6,49 +9,135 @@ using Rejections.Storage.Entities;
 
 namespace Rejections.Api.Services
 {
-    public class RejectionService
+    public class RejectionService : CrudServiceBase<RejectionDbContext, Rejection, RejectionDto>
     {
         RejectionDbContext _dbContext;
-        public RejectionService(RejectionDbContext dbContext)
+        public RejectionService(RejectionDbContext dbContext) : base(dbContext)
         {
             _dbContext=dbContext;
         }
 
-        public RejectionDto GetById(int id)
-        {
-            Rejection entity = _dbContext.Rejections.Where(e=>e.Id==id).FirstOrDefault();
-            if (entity == null) { return null; }
-            return entity.ToDto();
-        }
-        public bool Update(Rejection newentity)
-        {
 
-            Rejection entity = _dbContext.Rejections.Where(e => e.Id == newentity.Id).FirstOrDefault();
-            if (entity == null)
-            {
-                return false;
-            }
-            entity.Rejectee = newentity.Rejectee;
-            entity.Rejected = newentity.Rejected;
-            _dbContext.SaveChanges();
-            return true;
-        }
-        public IEnumerable<RejectionDto> Get()
+        public async Task<RejectionDto> GetById(int id)
         {
-            var entity = _dbContext.Rejections.ToList();
+            var entity = await base.GetById(id);
 
-            return entity.Select(e => e.ToDto());
+            return entity?.ToDto();
         }
 
-        public RejectionDto Create(RejectionDto dto)
+        public async Task<IEnumerable<RejectionDto>> Get()
+        {
+            var entities = await base.Get();
+
+            return entities.Select(e => e.ToDto());
+        }
+
+        public async Task<CrudOperationResult<RejectionDto>> Create(RejectionDto dto)
         {
             var entity = dto.ToEntity();
-            _dbContext.Rejections.Add(entity);
-            _dbContext.SaveChanges();
 
-            var newDto =  GetById(entity.Id);
+            var entityId = await base.Create(entity);
+            var newDto = await GetById(entity.Id);
 
-            return newDto;
+
+            return new CrudOperationResult<RejectionDto>
+            {
+                Result = newDto,
+                Status = CrudOperationResultStatus.Success
+            };
         }
+
+        public async Task<CrudOperationResult<RejectionDto>> Delete(int id)
+        {
+            return await base.Delete(id);
+        }
+
+        public async Task<CrudOperationResult<RejectionDto>> Update(int id, RejectionDto newdto)
+        {
+            var newEntity = newdto.ToEntity();
+            return await base.Update(id, newEntity);
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /*
+                public RejectionDto GetById(int id)
+                {
+                    Rejection entity = _dbContext.Rejections.Where(e=>e.Id==id).FirstOrDefault();
+                    if (entity == null) { return null; }
+                    return entity.ToDto();
+                }
+
+                public IEnumerable<RejectionDto> Get()
+                {
+                    var entity = _dbContext.Rejections.ToList();
+
+                    return entity.Select(e => e.ToDto());
+                }
+
+                public RejectionDto Create(RejectionDto dto)
+                {
+                    var entity = dto.ToEntity();
+                    _dbContext.Rejections.Add(entity);
+                    _dbContext.SaveChanges();
+
+                    var newDto =  GetById(entity.Id);
+
+                    return newDto;
+                }
+
+                public bool Update(Rejection newentity)
+                {
+
+                    Rejection entity = _dbContext.Rejections.Where(e => e.Id == newentity.Id).FirstOrDefault();
+                    if (entity == null)
+                    {
+                        return false;
+                    }
+                    entity.Rejectee = newentity.Rejectee;
+                    entity.Rejected = newentity.Rejected;
+                    _dbContext.SaveChanges();
+                    return true;
+                }
+
+                public bool Delete(int id)
+                {
+                    Storage.Entities.Rejection entity = _dbContext.Rejections.Where(e => e.Id == id).FirstOrDefault();
+                    if (entity == null) { return false; }
+                    _dbContext.Remove(entity);
+                    _dbContext.SaveChanges();
+                    return true;
+                }
+        */
     }
 }

@@ -15,3 +15,21 @@ C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\refi
 C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.pdb
 C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.genruntimeconfig.cache
 C:\Users\HP\Documents\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\ref\Profil.Storage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Profil.Storage.deps.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Profil.Storage.runtimeconfig.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Profil.Storage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Profil.Storage.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Common.Storage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Common.Storage.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.csproj.AssemblyReference.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.AssemblyInfoInputs.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.AssemblyInfo.cs
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.csproj.CoreCompileInputs.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.sourcelink.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.S.464B188E.Up2Date
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\refint\Profil.Storage.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.genruntimeconfig.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\ref\Profil.Storage.dll

@@ -1,0 +1,12 @@
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\bin\Debug\net8.0\Common.CrossCutting.deps.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\bin\Debug\net8.0\Common.CrossCutting.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\bin\Debug\net8.0\Common.CrossCutting.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.AssemblyInfoInputs.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.AssemblyInfo.cs
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.sourcelink.json
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\refint\Common.CrossCutting.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\ref\Common.CrossCutting.dll

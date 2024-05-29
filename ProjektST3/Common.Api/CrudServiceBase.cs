@@ -63,29 +63,6 @@ namespace Common.Api
             return entity.Id;
         }
 
-        /* //Update stwarzał problemy z tego co pamiętam. Zakomentowałem, bo wciąż zachowuje pewne walory "edukacyjne"
-        public async Task<CrudOperationResult<TDto>> Update2(TEntity newEntity)
-        {
-            var entityBeforeUpdate = await GetById(newEntity.Id);
-
-            if (entityBeforeUpdate == null)
-            {
-                return new CrudOperationResult<TDto>
-                {
-                    Status = CrudOperationResultStatus.RecordNotFound,
-                };
-            }
-
-            _dbContext.Entry(newEntity).State = EntityState.Modified;
-            await _dbContext.SaveChangesAsync();
-
-            return new CrudOperationResult<TDto>
-            {
-                Status = CrudOperationResultStatus.Success
-            };
-        }
-*/
-
         public async Task<CrudOperationResult<TDto>> Update(int id, TEntity newEntity)
         {
             var entityBeforeUpdate = await GetById(id);

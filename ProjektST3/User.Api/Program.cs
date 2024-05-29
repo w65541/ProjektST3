@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-var constring = "server=localhost;database=User;User=root;Password=root;";
+var constring = "server=localhost;database=User;User=aaa;Password=aaa;";
 builder.Services.AddDbContext<UserDbContext>(options => options.UseMySql(constring, ServerVersion.AutoDetect(constring)));
 var app = builder.Build();
 

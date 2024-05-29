@@ -219,3 +219,7 @@ D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\External
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.Api\obj\Debug\net8.0\ExternalUser.Api.pdb
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.Api\obj\Debug\net8.0\ExternalUser.Api.genruntimeconfig.cache
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.Api\obj\Debug\net8.0\ref\ExternalUser.Api.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.Api\bin\Debug\net8.0\Common.Api.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.Api\bin\Debug\net8.0\Common.CrossCutting.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.Api\bin\Debug\net8.0\Common.Api.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.Api\bin\Debug\net8.0\Common.CrossCutting.pdb

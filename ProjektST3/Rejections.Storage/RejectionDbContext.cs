@@ -21,7 +21,8 @@ namespace Rejections.Storage
         }
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            var constring = "server=localhost;database=Rejection;User=root;Password=root;";
+            //var constring = "server=localhost;database=Rejection;User=root;Password=root;";
+            var constring = "server=localhost;User=aaa;Password=aaa;database=Rejection;";
             options.UseMySql(constring, ServerVersion.AutoDetect(constring));
         }
     }

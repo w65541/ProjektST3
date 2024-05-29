@@ -219,3 +219,7 @@ D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejectio
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.Api\obj\Debug\net8.0\Rejections.Api.pdb
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.Api\obj\Debug\net8.0\Rejections.Api.genruntimeconfig.cache
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.Api\obj\Debug\net8.0\ref\Rejections.Api.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.Api\bin\Debug\net8.0\Common.Api.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.Api\bin\Debug\net8.0\Common.CrossCutting.dll
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.Api\bin\Debug\net8.0\Common.Api.pdb
+D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.Api\bin\Debug\net8.0\Common.CrossCutting.pdb

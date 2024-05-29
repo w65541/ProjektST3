@@ -17,7 +17,6 @@ namespace Rejections.Api.Services
             _dbContext=dbContext;
         }
 
-
         public async Task<RejectionDto> GetById(int id)
         {
             var entity = await base.GetById(id);
@@ -57,87 +56,5 @@ namespace Rejections.Api.Services
             var newEntity = newdto.ToEntity();
             return await base.Update(id, newEntity);
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        /*
-                public RejectionDto GetById(int id)
-                {
-                    Rejection entity = _dbContext.Rejections.Where(e=>e.Id==id).FirstOrDefault();
-                    if (entity == null) { return null; }
-                    return entity.ToDto();
-                }
-
-                public IEnumerable<RejectionDto> Get()
-                {
-                    var entity = _dbContext.Rejections.ToList();
-
-                    return entity.Select(e => e.ToDto());
-                }
-
-                public RejectionDto Create(RejectionDto dto)
-                {
-                    var entity = dto.ToEntity();
-                    _dbContext.Rejections.Add(entity);
-                    _dbContext.SaveChanges();
-
-                    var newDto =  GetById(entity.Id);
-
-                    return newDto;
-                }
-
-                public bool Update(Rejection newentity)
-                {
-
-                    Rejection entity = _dbContext.Rejections.Where(e => e.Id == newentity.Id).FirstOrDefault();
-                    if (entity == null)
-                    {
-                        return false;
-                    }
-                    entity.Rejectee = newentity.Rejectee;
-                    entity.Rejected = newentity.Rejected;
-                    _dbContext.SaveChanges();
-                    return true;
-                }
-
-                public bool Delete(int id)
-                {
-                    Storage.Entities.Rejection entity = _dbContext.Rejections.Where(e => e.Id == id).FirstOrDefault();
-                    if (entity == null) { return false; }
-                    _dbContext.Remove(entity);
-                    _dbContext.SaveChanges();
-                    return true;
-                }
-        */
     }
 }

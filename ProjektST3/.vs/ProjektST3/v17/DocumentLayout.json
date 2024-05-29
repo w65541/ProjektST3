@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{219646B9-21DC-415C-B58C-A1A0A020437F}|User.Storage\\User.Storage.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\user.storage\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{219646B9-21DC-415C-B58C-A1A0A020437F}|User.Storage\\User.Storage.csproj|solutionrelative:user.storage\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\user.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|solutionrelative:user.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.api\\services\\rejectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\services\\rejectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\user.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +15,56 @@
       "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\controllers\\rejectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.api\\services\\rejectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\services\\rejectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\profil.service\\controllers\\profilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|solutionrelative:profil.service\\controllers\\profilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\externaluser.api\\controllers\\externalusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|solutionrelative:externaluser.api\\controllers\\externalusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9838124-37CB-4818-AEC5-29737257169C}|Common.Api\\Common.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\common.api\\crudservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9838124-37CB-4818-AEC5-29737257169C}|Common.Api\\Common.Api.csproj|solutionrelative:common.api\\crudservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\user.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|solutionrelative:user.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\profil.service\\services\\profilservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|solutionrelative:profil.service\\services\\profilservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\externaluser.api\\services\\externaluserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|solutionrelative:externaluser.api\\services\\externaluserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{316E6C9D-BCDB-4458-8E8D-2DE87F847447}|Rejections.CrossCutting\\Rejections.CrossCutting.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.crosscutting\\dtos\\rejectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316E6C9D-BCDB-4458-8E8D-2DE87F847447}|Rejections.CrossCutting\\Rejections.CrossCutting.csproj|solutionrelative:rejections.crosscutting\\dtos\\rejectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.storage\\entities\\rejection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|solutionrelative:rejections.storage\\entities\\rejection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.api\\extensions\\rejectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\extensions\\rejectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.storage\\entities\\rejection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|solutionrelative:rejections.storage\\entities\\rejection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{219646B9-21DC-415C-B58C-A1A0A020437F}|User.Storage\\User.Storage.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\user.storage\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219646B9-21DC-415C-B58C-A1A0A020437F}|User.Storage\\User.Storage.csproj|solutionrelative:user.storage\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.storage\\rejectiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|solutionrelative:rejections.storage\\rejectiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|solutionrelative:user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,76 +74,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "ProfilController.cs",
+              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Profil.Service\\Controllers\\ProfilController.cs",
+              "RelativeDocumentMoniker": "Profil.Service\\Controllers\\ProfilController.cs",
+              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Profil.Service\\Controllers\\ProfilController.cs",
+              "RelativeToolTip": "Profil.Service\\Controllers\\ProfilController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:03:22.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExternalUserController.cs",
+              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Controllers\\ExternalUserController.cs",
+              "RelativeDocumentMoniker": "ExternalUser.Api\\Controllers\\ExternalUserController.cs",
+              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Controllers\\ExternalUserController.cs",
+              "RelativeToolTip": "ExternalUser.Api\\Controllers\\ExternalUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:03:17.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrudServiceBase.cs",
+              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Common.Api\\CrudServiceBase.cs",
+              "RelativeDocumentMoniker": "Common.Api\\CrudServiceBase.cs",
+              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Common.Api\\CrudServiceBase.cs",
+              "RelativeToolTip": "Common.Api\\CrudServiceBase.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:02:45.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfilServices.cs",
+              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Profil.Service\\Services\\ProfilServices.cs",
+              "RelativeDocumentMoniker": "Profil.Service\\Services\\ProfilServices.cs",
+              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Profil.Service\\Services\\ProfilServices.cs",
+              "RelativeToolTip": "Profil.Service\\Services\\ProfilServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:02:17.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExternalUserServices.cs",
+              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Services\\ExternalUserServices.cs",
+              "RelativeDocumentMoniker": "ExternalUser.Api\\Services\\ExternalUserServices.cs",
+              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Services\\ExternalUserServices.cs",
+              "RelativeToolTip": "ExternalUser.Api\\Services\\ExternalUserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:02:01.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Rejections.Api\\Program.cs",
+              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Program.cs",
+              "RelativeToolTip": "Rejections.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:47:17.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RejectionDbContext.cs",
+              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Storage\\RejectionDbContext.cs",
+              "RelativeDocumentMoniker": "Rejections.Storage\\RejectionDbContext.cs",
+              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Storage\\RejectionDbContext.cs",
+              "RelativeToolTip": "Rejections.Storage\\RejectionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:46:50.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Program.cs",
+              "RelativeDocumentMoniker": "User.Api\\Program.cs",
+              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Program.cs",
+              "RelativeToolTip": "User.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:41:47.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UserDbContext.cs",
               "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\UserDbContext.cs",
               "RelativeDocumentMoniker": "User.Storage\\UserDbContext.cs",
               "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\UserDbContext.cs",
               "RelativeToolTip": "User.Storage\\UserDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T19:07:21.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "User.Api\\Services\\UserService.cs",
               "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Services\\UserService.cs",
               "RelativeToolTip": "User.Api\\Services\\UserService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T18:56:49.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "User.Api\\Controllers\\UserController.cs",
               "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Controllers\\UserController.cs",
               "RelativeToolTip": "User.Api\\Controllers\\UserController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T18:56:39.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RejectionController.cs",
               "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Controllers\\RejectionController.cs",
               "RelativeDocumentMoniker": "Rejections.Api\\Controllers\\RejectionController.cs",
               "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Controllers\\RejectionController.cs",
               "RelativeToolTip": "Rejections.Api\\Controllers\\RejectionController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T16:58:01.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "RejectionService.cs",
               "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Services\\RejectionService.cs",
               "RelativeDocumentMoniker": "Rejections.Api\\Services\\RejectionService.cs",
               "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Services\\RejectionService.cs",
               "RelativeToolTip": "Rejections.Api\\Services\\RejectionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T16:02:37.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "RejectionExtension.cs",
               "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Extensions\\RejectionExtension.cs",
               "RelativeDocumentMoniker": "Rejections.Api\\Extensions\\RejectionExtension.cs",
@@ -124,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "RejectionDto.cs",
               "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Dtos\\RejectionDto.cs",
               "RelativeDocumentMoniker": "Rejections.CrossCutting\\Dtos\\RejectionDto.cs",
@@ -137,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Rejection.cs",
               "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Storage\\Entities\\Rejection.cs",
               "RelativeDocumentMoniker": "Rejections.Storage\\Entities\\Rejection.cs",

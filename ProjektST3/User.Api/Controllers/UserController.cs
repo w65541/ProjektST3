@@ -76,10 +76,5 @@ namespace User.Api.Controllers
 
             return Ok();
         }
-
-
-
-
-
     }
 }

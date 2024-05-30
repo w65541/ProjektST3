@@ -27,3 +27,18 @@ D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.C
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.pdb
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.genruntimeconfig.cache
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\ref\Profil.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\bin\Debug\net8.0\Profil.CrossCutting.deps.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\bin\Debug\net8.0\Profil.CrossCutting.runtimeconfig.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\bin\Debug\net8.0\Profil.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\bin\Debug\net8.0\Profil.CrossCutting.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.AssemblyInfo.cs
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.sourcelink.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\refint\Profil.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\Profil.CrossCutting.genruntimeconfig.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.CrossCutting\obj\Debug\net8.0\ref\Profil.CrossCutting.dll

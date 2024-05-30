@@ -5,7 +5,7 @@ namespace Profil.Api.Extensions
 {
     public static class ServiceCollectionExtensions
     {
-        public static IServiceCollection AddUserServices(this IServiceCollection serviceCollection)
+        public static IServiceCollection AddProfileServices(this IServiceCollection serviceCollection)
         {
 
             serviceCollection.AddTransient<ProfilServices>();

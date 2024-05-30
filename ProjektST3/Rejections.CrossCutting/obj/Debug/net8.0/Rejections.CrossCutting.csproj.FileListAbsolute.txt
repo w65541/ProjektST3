@@ -27,3 +27,18 @@ D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejectio
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\Rejections.CrossCutting.pdb
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\Rejections.CrossCutting.genruntimeconfig.cache
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\ref\Rejections.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\bin\Debug\net8.0\Rejections.CrossCutting.deps.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\bin\Debug\net8.0\Rejections.CrossCutting.runtimeconfig.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\bin\Debug\net8.0\Rejections.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\bin\Debug\net8.0\Rejections.CrossCutting.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\Rejections.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\Rejections.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\Rejections.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\Rejections.CrossCutting.AssemblyInfo.cs
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\Rejections.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\Rejections.CrossCutting.sourcelink.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\Rejections.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\refint\Rejections.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\Rejections.CrossCutting.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\Rejections.CrossCutting.genruntimeconfig.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.CrossCutting\obj\Debug\net8.0\ref\Rejections.CrossCutting.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj": {}
+    "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj": {}
   },
   "projects": {
-    "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj": {
+    "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj",
+        "projectUniqueName": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj",
         "projectName": "Common.Storage",
-        "projectPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj",
-        "packagesPath": "C:\\Users\\Glowny\\.nuget\\packages\\",
-        "outputPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Common.Storage\\obj\\",
+        "projectPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj",
+        "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Glowny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,21 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj": {
+    "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj",
         "projectName": "User.Api",
-        "projectPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj",
-        "packagesPath": "C:\\Users\\Glowny\\.nuget\\packages\\",
-        "outputPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\obj\\",
+        "projectPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\User.Api.csproj",
+        "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Glowny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,17 +105,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj": {
-                "projectPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj"
+              "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj"
               },
-              "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj": {
-                "projectPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj"
+              "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj": {
+                "projectPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj"
               }
             }
           }
@@ -178,21 +180,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj": {
+    "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj",
         "projectName": "User.CrossCutting",
-        "projectPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\Glowny\\.nuget\\packages\\",
-        "outputPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.CrossCutting\\User.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Glowny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -200,6 +202,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -260,21 +263,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj": {
+    "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj",
+        "projectUniqueName": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj",
         "projectName": "User.Storage",
-        "projectPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj",
-        "packagesPath": "C:\\Users\\Glowny\\.nuget\\packages\\",
-        "outputPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\obj\\",
+        "projectPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\User.Storage.csproj",
+        "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Glowny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -282,14 +285,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj": {
-                "projectPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj"
+              "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj": {
+                "projectPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Storage\\Common.Storage.csproj"
               }
             }
           }
@@ -346,7 +350,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

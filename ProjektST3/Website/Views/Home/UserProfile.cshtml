@@ -1,0 +1,174 @@
+@{
+    ViewData["Title"] = "Edit Profile";
+}
+@using Website.ExternalDto
+@model ProfileDto
+
+
+
+	<!-- Pierwsza sekcja   -->
+	<div class="container-fluid">
+		<div class="row">
+            <div class="col-md-4 section user-profile">
+                <h2>Twój Profil</h2>
+                <img src="~/images/ludek2.jpg" alt="Zdjęcie Profilowe">
+                <h4>@Model.Imie @Model.Nazwisko</h4>
+                @if (@Model.Plec == 0)
+                {
+            <p><b>Płeć:</b> Mężczyzna</p>}
+        else
+        {<p><b>Płeć:</b> Kobieta</p>}
+                <p><b>Telefon:</b>@Model.Telefon</p>
+            </div>
+
+            <div class="col-md-7">
+                <h2>Zmień dane</h2>
+
+
+
+
+
+                <div class="form-group">
+                    <label> Aktualny email: @Model.Email </label><br />
+                    <label for="newEmail">Nowy adres e-mail:</label>
+                    <input type="email" class="form-control" id="newEmail" name="newEmail">
+                </div>
+
+                <div class="form-group">
+                    <label for="newEmail">Nowy login:</label>
+                    <input type="text" class="form-control" id="login" name="login">
+                </div>
+
+                <div class="form-group">
+                    <label for="newPassword">Nowe hasło:</label>
+                    <input type="password" class="form-control" id="newPassword" name="newPassword">
+                </div>
+
+                <div class="form-group">
+                    <label> Aktualne imie: @Model.Imie</label><br />
+                    <label for="Name">Imię:</label>
+                    <input type="text" class="form-control" id="Name" name="Name">
+                </div>
+
+                <div class="form-group">
+                    <label> Aktualne nazwisko: @Model.Nazwisko</label><br />
+                    <label for="lastName">Nazwisko:</label>
+                    <input type="text" class="form-control" id="lastName" name="lastName">
+                </div>
+                <div class="form-group">
+                    <label> Aktualne telefon: @Model.Telefon</label><br />
+                    <label for="telefon">telefon:</label>
+                    <input type="text" class="form-control" id="telefon" name="telefon" required>
+                </div>
+                <div class="form-group">
+                    <label for="gender">Płeć:</label>
+                    <select class="form-control" id="gender" name="gender">
+                        <option value="2" selected>Wybierz...</option>
+                        <option value="0">Mężczyzna</option>
+                        <option value="1">Kobieta</option>
+                    </select>
+                </div>
+                <p>Załaduj zdjęcie profilowe</p>
+                <div class="form-group">
+                    <label for="photo">Zdjęcie:</label>
+                    <input type="file" class="form-control-file" id="photo" name="photo">
+                </div>
+
+                <hr />
+
+                <div class="form-group">
+                    <label> Aktualny atrybut: @Model.Atrybut1</label><br />
+                    <label for="a1">Ocena:</label>
+                    <select class="form-control" id="a1" name="rating">
+                        <option value="0" selected>Wybierz...</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label> Aktualny atrybut: @Model.Atrybut2</label><br />
+                    <label for="a2">Ocena:</label>
+                    <select class="form-control" id="a2" name="rating">
+                        <option value="0" selected>Wybierz...</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label> Aktualny atrybut: @Model.Atrybut3</label><br />
+                    <label for="a3">Ocena:</label>
+                    <select class="form-control" id="a3" name="rating">
+                        <option value="0" selected>Wybierz...</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label> Aktualny atrybut: @Model.Atrybut4</label><br />
+                    <label for="a4">Ocena:</label>
+                    <select class="form-control" id="a4" name="rating">
+                        <option value="0" selected>Wybierz...</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+
+                <button class="btn btn-outline-success" id="update">Wyślij</button>
+                <button class="btn btn-outline-success" id="del">Usuń konto</button>
+
+                <script>
+                    document.getElementById("update").onclick = function () { update() };
+                    document.getElementById("del").onclick = function () { del() };
+
+                   
+                    function update() {
+
+        $.ajax({
+            type: "GET", dataType: 'json',
+            url:'@Url.Action("ProfileUpdate", "DatingSite")',
+            data: { id: @Model.Id,
+                login: document.getElementById("login").value, haslo: document.getElementById("newPassword").value, imie: document.getElementById("Name").value,
+            nazwisko: document.getElementById("lastName").value, telefon: document.getElementById("telefon").value, email: document.getElementById("newEmail").value, plec: document.getElementById("gender").value,
+            a1: document.getElementById("a1").value, a2: document.getElementById("a2").value, a3: document.getElementById("a3").value, a4: document.getElementById("a4").value
+        },
+            success: function () {
+               
+
+                location.reload();
+            },        
+        });
+                    }
+                    function del() {
+                        $.ajax({
+                            type: "GET", dataType: 'json',                            
+                            url: '@Url.Action("ProfileDelete", "DatingSite")',
+                            data: { id: @Model.Id},
+                            success: function () {
+                            window.location = '@Url.Action("Login", "Home")';
+                            }
+                        });
+                    }
+                </script>
+
+
+            </div>
+		</div>
+	</div>
+
+
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

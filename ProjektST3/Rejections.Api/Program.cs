@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Rejections.Api.Extensions;
 using Rejections.Storage;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,7 +10,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-var constring = "server=localhost;User=aaa;Password=aaa;database=Rejection;";
+builder.Services.AddRejectionServices();
+var constring = "server=localhost;database=Rejection;User=root;Password=root;";
+//var constring = "server=localhost;User=aaa;Password=aaa;database=Rejection;";
 builder.Services.AddDbContext<RejectionDbContext>(options => options.UseMySql(constring, ServerVersion.AutoDetect(constring)));
 var app = builder.Build();
 

@@ -1,0 +1,118 @@
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using Website.ExternalDto
+@model ProfileDto
+
+<!-- Nagłówek z nawigacją -->
+<!-- Sekcja 2 Szukaj -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 col-lg-12 section search-section">
+            <!--       <h2>Sekcja 2 Szukaj</h2> -->
+            <form class="form-inline">
+                <input class="form-control col-sm-12 col-md-10 col-lg-11" type="search" placeholder="Znajdź" aria-label="Search">
+                <button class="btn btn-outline-success my-12 my-sm-0" type="submit">Szukaj</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- Pierwsza sekcja   -->
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-4 section user-profile">
+            <h2>Twój Profil</h2>
+            <img src="~/images/ludek2.jpg" alt="Zdjęcie Profilowe">
+            <h4>@Model.Imie @Model.Nazwisko</h4>
+            @if (@Model.Plec == 0)
+            {
+        <p><b>Płeć:</b> Mężczyzna</p>}
+    else
+    {<p><b>Płeć:</b> Kobieta</p>}
+            <p><b>Telefon:</b>@Model.Telefon</p>
+        </div>
+
+
+
+        <div class="col-md-8 section">
+            <h2 id="Kandydaci1">Kandydaci</h2>
+
+            <div class="card-container row" id="Kandydaci" onload="test()">
+
+
+
+
+            </div>
+
+
+        </div>
+
+
+        </>
+    </div>
+
+
+    <script>
+
+        document.addEventListener("DOMContentLoaded", function () { loadCandidates() });
+        //funkcja wczytuje i tworzy karty kandytatów
+        function loadCandidates() {
+			$.ajax({
+				type: "GET", dataType: 'json',
+				url: '@Url.Action("ProfileCom", "DatingSite")',
+				data: { id: @Model.Id},
+
+				success: function (result) {
+					var html = "";
+                    for (var i = 0; i < 10 || i < result.lenght; i++) {
+                        html = "";
+                        html += '<div id = "rej' + result[i]['id'] +'"class="col-sm-6 col-md-4 col-lg-3 mb-4">';
+                        html += '<div class="card">';
+                        html += '<div class="square-img-wrapper">';
+                        html += '<a onClick="profile(' + result[i]['id'] +')">';
+                        html += '<img src="/images/ludek1.jpg" class="card-img-top img-fluid square-img" alt="..." />';
+                        html += '</a>';
+                        html += '</div>';
+                        html += '<div class="card-body p-0"> <p class="card-text ml-2 mr-2 mt-3 mb-3">';
+                        html += result[i]["imie"] + " " + result[i]["nazwisko"] +'</p>';
+                        html += '<button class="btn w-50" id="btnyes">&#129505</button><button class="btn w-50" id="btnno" onClick="Reject(' + result[i]['id'] +')" >&#128148</button ></div ></div ></div ></div ></div >';
+                        document.getElementById("Kandydaci").innerHTML += html;
+					}
+
+		},
+		error: function () {
+
+		}
+				});
+		}
+        
+			function Reject(Rid) {
+
+        $.ajax({
+            type: "Get", dataType: 'json',
+            url:'@Url.Action("Reject", "DatingSite")',
+            data: { id1 : @Model.Id, id2: Rid },
+
+            success: function () {
+                var id = "rej" + Rid;
+                alert(id);
+				document.getElementById(id).remove();
+            },
+        error: function () {
+            alert("Wystąpił błąd sprubój ponownie");
+            location.reload();
+            }
+        });
+    }
+        function profile(ID) {
+
+            window.location = '@Url.Action("Profile", "Home")' + "?id1=" +@Model.Id+"&id2=" + ID + "&id3=" + @Model.IdUser;
+    }
+
+    </script>

@@ -5,7 +5,7 @@ namespace Rejections.Api.Extensions
 {
     public static class ServiceCollectionExtension
     {
-        public static IServiceCollection AddUserServices(this IServiceCollection serviceCollection)
+        public static IServiceCollection AddRejectionServices(this IServiceCollection serviceCollection)
         {
 
             serviceCollection.AddTransient<RejectionService>();

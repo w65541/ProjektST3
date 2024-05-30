@@ -20,7 +20,7 @@ namespace Profil.Api.Services
         {
             var entity = await base.GetById(id);
 
-            return entity?.ToDto();
+            return entity.ToDto();
         }
 
         public async Task<IEnumerable<ProfileDto>> Get()

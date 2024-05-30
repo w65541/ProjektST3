@@ -17,7 +17,7 @@ namespace Rejections.Api.Controllers
         [HttpGet("get/{id}")]
         public async Task<IActionResult> ReadById(int id)
         {
-            var Dto = _service.GetById(id);
+            var Dto = await _service.GetById(id);
 
             if (Dto == null)
             {
@@ -67,13 +67,13 @@ namespace Rejections.Api.Controllers
                 return BadRequest("Invalid data.");
             }
 
-            var dto = _service.GetById(id);
+            var dto = await _service.GetById(id);
             if (dto == null)
             {
                 return NotFound();
             }
 
-            var operationResult = _service.Update(id, updateDto);
+            var operationResult = await _service.Update(id, updateDto);
 
             return Ok();
         }

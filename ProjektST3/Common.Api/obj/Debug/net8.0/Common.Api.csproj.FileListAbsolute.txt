@@ -16,3 +16,21 @@ D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.A
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\refint\Common.Api.dll
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\Common.Api.pdb
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\ref\Common.Api.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\bin\Debug\net8.0\Common.Api.deps.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\bin\Debug\net8.0\Common.Api.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\bin\Debug\net8.0\Common.Api.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\bin\Debug\net8.0\Common.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\bin\Debug\net8.0\Common.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\bin\Debug\net8.0\Common.CrossCutting.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\bin\Debug\net8.0\Common.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\Common.Api.csproj.AssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\Common.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\Common.Api.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\Common.Api.AssemblyInfo.cs
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\Common.Api.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\Common.Api.sourcelink.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\Common.Api.csproj.Up2Date
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\Common.Api.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\refint\Common.Api.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\Common.Api.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Api\obj\Debug\net8.0\ref\Common.Api.dll

@@ -20,8 +20,8 @@ namespace User.Storage
         }
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            //var constring = "server=localhost;database=User;User=root;Password=root;";
-            var constring = "server=localhost;database=User;User=aaa;Password=aaa;";
+            var constring = "server=localhost;database=User;User=root;Password=root;";
+            //var constring = "server=localhost;database=User;User=aaa;Password=aaa;";
             options.UseMySql(constring, ServerVersion.AutoDetect(constring));
         }
     }

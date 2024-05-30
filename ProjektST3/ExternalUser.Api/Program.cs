@@ -1,3 +1,4 @@
+using ExternalUser.Api.Extensions;
 using ExternalUser.Storage;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,6 +10,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddEUserServices();
 var constring = "server=localhost;database=ExternalUser;User=root;Password=root;";
 builder.Services.AddDbContext<ExternalUserDbContext>(options => options.UseMySql(constring, ServerVersion.AutoDetect(constring)));
 var app = builder.Build();

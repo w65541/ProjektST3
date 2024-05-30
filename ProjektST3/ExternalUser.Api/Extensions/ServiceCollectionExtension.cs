@@ -5,7 +5,7 @@ namespace ExternalUser.Api.Extensions
 {
     public static class ServiceCollectionExtension
     {
-        public static IServiceCollection AddUserServices(this IServiceCollection serviceCollection)
+        public static IServiceCollection AddEUserServices(this IServiceCollection serviceCollection)
         {
 
             serviceCollection.AddTransient<ExternalUserServices>();

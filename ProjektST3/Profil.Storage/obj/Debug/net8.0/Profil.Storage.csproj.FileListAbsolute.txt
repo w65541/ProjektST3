@@ -33,3 +33,21 @@ D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.S
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.pdb
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.genruntimeconfig.cache
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\ref\Profil.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Profil.Storage.deps.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Profil.Storage.runtimeconfig.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Profil.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Profil.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Common.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\bin\Debug\net8.0\Common.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.csproj.AssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.AssemblyInfo.cs
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.sourcelink.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.S.464B188E.Up2Date
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\refint\Profil.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\Profil.Storage.genruntimeconfig.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Profil.Storage\obj\Debug\net8.0\ref\Profil.Storage.dll

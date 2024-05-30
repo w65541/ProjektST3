@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+
+.main-section {
+    background-color: aquamarine;
+    border: solid;
+    border-block-color: black;
+    width: 40%;
+    height: 100%;
+    min-height: 500px;
+    margin: 50px;
+    float: left;
+}
+.container{
+    background-color: red;
+}

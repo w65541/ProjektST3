@@ -27,3 +27,18 @@ D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\External
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ExternalUser.CrossCutting.pdb
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ExternalUser.CrossCutting.genruntimeconfig.cache
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ref\ExternalUser.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\bin\Debug\net8.0\ExternalUser.CrossCutting.deps.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\bin\Debug\net8.0\ExternalUser.CrossCutting.runtimeconfig.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\bin\Debug\net8.0\ExternalUser.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\bin\Debug\net8.0\ExternalUser.CrossCutting.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ExternalUser.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ExternalUser.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ExternalUser.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ExternalUser.CrossCutting.AssemblyInfo.cs
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ExternalUser.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ExternalUser.CrossCutting.sourcelink.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ExternalUser.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\refint\ExternalUser.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ExternalUser.CrossCutting.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ExternalUser.CrossCutting.genruntimeconfig.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.CrossCutting\obj\Debug\net8.0\ref\ExternalUser.CrossCutting.dll

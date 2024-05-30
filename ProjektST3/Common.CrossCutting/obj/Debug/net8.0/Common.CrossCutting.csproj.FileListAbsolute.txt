@@ -10,3 +10,15 @@ D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.C
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\refint\Common.CrossCutting.dll
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.pdb
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\ref\Common.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\bin\Debug\net8.0\Common.CrossCutting.deps.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\bin\Debug\net8.0\Common.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\bin\Debug\net8.0\Common.CrossCutting.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.AssemblyInfo.cs
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.sourcelink.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\refint\Common.CrossCutting.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\Common.CrossCutting.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.CrossCutting\obj\Debug\net8.0\ref\Common.CrossCutting.dll

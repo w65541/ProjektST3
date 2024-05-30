@@ -1,70 +1,202 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\",
+  "WorkspaceRootPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.api\\services\\rejectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\services\\rejectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\user.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|solutionrelative:user.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.api\\controllers\\rejectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\views\\home\\external.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\views\\home\\external.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\controllers\\datingsitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\controllers\\datingsitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\resolvers\\externaluserresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\resolvers\\externaluserresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\resolvers\\profileresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\resolvers\\profileresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\resolvers\\rejectionresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\resolvers\\rejectionresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\externaldto\\externaluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\externaldto\\externaluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\resolvers\\userresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\resolvers\\userresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\rejections.api\\controllers\\rejectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\controllers\\rejectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\profil.service\\controllers\\profilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|solutionrelative:profil.service\\controllers\\profilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\externaluser.api\\controllers\\externalusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|solutionrelative:externaluser.api\\controllers\\externalusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9838124-37CB-4818-AEC5-29737257169C}|Common.Api\\Common.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\common.api\\crudservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9838124-37CB-4818-AEC5-29737257169C}|Common.Api\\Common.Api.csproj|solutionrelative:common.api\\crudservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\user.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\user.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|solutionrelative:user.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\profil.service\\services\\profilservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\user.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|solutionrelative:user.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\profil.service\\controllers\\profilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|solutionrelative:profil.service\\controllers\\profilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9838124-37CB-4818-AEC5-29737257169C}|Common.Api\\Common.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\common.api\\crudservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9838124-37CB-4818-AEC5-29737257169C}|Common.Api\\Common.Api.csproj|solutionrelative:common.api\\crudservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\externaluser.api\\controllers\\externalusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|solutionrelative:externaluser.api\\controllers\\externalusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\profil.service\\services\\profilservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|solutionrelative:profil.service\\services\\profilservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\externaluser.api\\services\\externaluserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|solutionrelative:externaluser.api\\services\\externaluserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\models\\ratedprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\models\\ratedprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316E6C9D-BCDB-4458-8E8D-2DE87F847447}|Rejections.CrossCutting\\Rejections.CrossCutting.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.crosscutting\\dtos\\rejectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316E6C9D-BCDB-4458-8E8D-2DE87F847447}|Rejections.CrossCutting\\Rejections.CrossCutting.csproj|solutionrelative:rejections.crosscutting\\dtos\\rejectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\models\\profiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\models\\profiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.storage\\entities\\rejection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|solutionrelative:rejections.storage\\entities\\rejection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.api\\extensions\\rejectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\extensions\\rejectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\externaluser.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|solutionrelative:externaluser.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{219646B9-21DC-415C-B58C-A1A0A020437F}|User.Storage\\User.Storage.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\user.storage\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{219646B9-21DC-415C-B58C-A1A0A020437F}|User.Storage\\User.Storage.csproj|solutionrelative:user.storage\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\externaluser.api\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|solutionrelative:externaluser.api\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.storage\\rejectiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|solutionrelative:rejections.storage\\rejectiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\profil.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|solutionrelative:profil.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\profil.service\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D1DBD8-58AB-4BCD-BE34-16496345D3DD}|Profil.Service\\Profil.Api.csproj|solutionrelative:profil.service\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\rejections.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\rejections.api\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3473F65-2080-43B7-B579-BE35CBAE715C}|User.Api\\User.Api.csproj|solutionrelative:user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|d:\\aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\projektst3\\projektst3\\rejections.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\rejections.storage\\rejectiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|solutionrelative:rejections.storage\\rejectiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\views\\home\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\views\\home\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\externaldto\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\externaldto\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\externaldto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\externaldto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\website\\externaldto\\rejectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E793B63-9CD1-4835-94CB-04FF236DD854}|Website\\Website.csproj|solutionrelative:website\\externaldto\\rejectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741BC944-59D0-449D-82E9-37F7754CABB7}|Webpage\\Webpage.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\webpage\\webpage.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{741BC944-59D0-449D-82E9-37F7754CABB7}|Webpage\\Webpage.csproj|solutionrelative:webpage\\webpage.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741BC944-59D0-449D-82E9-37F7754CABB7}|Webpage\\Webpage.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\webpage\\pages\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{741BC944-59D0-449D-82E9-37F7754CABB7}|Webpage\\Webpage.csproj|solutionrelative:webpage\\pages\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741BC944-59D0-449D-82E9-37F7754CABB7}|Webpage\\Webpage.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\webpage\\pages\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{741BC944-59D0-449D-82E9-37F7754CABB7}|Webpage\\Webpage.csproj|solutionrelative:webpage\\pages\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\rejections.api\\services\\rejectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\services\\rejectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741BC944-59D0-449D-82E9-37F7754CABB7}|Webpage\\Webpage.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\webpage\\controllers\\datingsitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741BC944-59D0-449D-82E9-37F7754CABB7}|Webpage\\Webpage.csproj|solutionrelative:webpage\\controllers\\datingsitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741BC944-59D0-449D-82E9-37F7754CABB7}|Webpage\\Webpage.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\webpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741BC944-59D0-449D-82E9-37F7754CABB7}|Webpage\\Webpage.csproj|solutionrelative:webpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219646B9-21DC-415C-B58C-A1A0A020437F}|User.Storage\\User.Storage.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\user.storage\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219646B9-21DC-415C-B58C-A1A0A020437F}|User.Storage\\User.Storage.csproj|solutionrelative:user.storage\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\externaluser.api\\services\\externaluserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439799A2-AA6A-4F0B-B823-48BB86F180ED}|ExternalUser.Api\\ExternalUser.Api.csproj|solutionrelative:externaluser.api\\services\\externaluserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316E6C9D-BCDB-4458-8E8D-2DE87F847447}|Rejections.CrossCutting\\Rejections.CrossCutting.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\rejections.crosscutting\\dtos\\rejectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316E6C9D-BCDB-4458-8E8D-2DE87F847447}|Rejections.CrossCutting\\Rejections.CrossCutting.csproj|solutionrelative:rejections.crosscutting\\dtos\\rejectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\rejections.storage\\entities\\rejection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|solutionrelative:rejections.storage\\entities\\rejection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\rejections.api\\extensions\\rejectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970F079-E61B-48D8-AD15-D4CE06B7EE6D}|Rejections.Api\\Rejections.Api.csproj|solutionrelative:rejections.api\\extensions\\rejectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\rejections.storage\\migrations\\20240530122314_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B33773C-AAE5-4DF5-97C8-0539A4FD9EFA}|Rejections.Storage\\Rejections.Storage.csproj|solutionrelative:rejections.storage\\migrations\\20240530122314_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219646B9-21DC-415C-B58C-A1A0A020437F}|User.Storage\\User.Storage.csproj|c:\\users\\filip\\documents\\github\\projektst3\\projektst3\\user.storage\\migrations\\20240530114434_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219646B9-21DC-415C-B58C-A1A0A020437F}|User.Storage\\User.Storage.csproj|solutionrelative:user.storage\\migrations\\20240530114434_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,215 +206,597 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProfilController.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Profil.Service\\Controllers\\ProfilController.cs",
-              "RelativeDocumentMoniker": "Profil.Service\\Controllers\\ProfilController.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Profil.Service\\Controllers\\ProfilController.cs",
-              "RelativeToolTip": "Profil.Service\\Controllers\\ProfilController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "ExternalUserResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Resolvers\\ExternalUserResolver.cs",
+              "RelativeDocumentMoniker": "Website\\Resolvers\\ExternalUserResolver.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Resolvers\\ExternalUserResolver.cs",
+              "RelativeToolTip": "Website\\Resolvers\\ExternalUserResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T21:03:22.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T17:47:29.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExternalUserController.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Controllers\\ExternalUserController.cs",
-              "RelativeDocumentMoniker": "ExternalUser.Api\\Controllers\\ExternalUserController.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Controllers\\ExternalUserController.cs",
-              "RelativeToolTip": "ExternalUser.Api\\Controllers\\ExternalUserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T21:03:17.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CrudServiceBase.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Common.Api\\CrudServiceBase.cs",
-              "RelativeDocumentMoniker": "Common.Api\\CrudServiceBase.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Common.Api\\CrudServiceBase.cs",
-              "RelativeToolTip": "Common.Api\\CrudServiceBase.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAAAwIYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T21:02:45.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProfilServices.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Profil.Service\\Services\\ProfilServices.cs",
-              "RelativeDocumentMoniker": "Profil.Service\\Services\\ProfilServices.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Profil.Service\\Services\\ProfilServices.cs",
-              "RelativeToolTip": "Profil.Service\\Services\\ProfilServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T21:02:17.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExternalUserServices.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Services\\ExternalUserServices.cs",
-              "RelativeDocumentMoniker": "ExternalUser.Api\\Services\\ExternalUserServices.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Services\\ExternalUserServices.cs",
-              "RelativeToolTip": "ExternalUser.Api\\Services\\ExternalUserServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T21:02:01.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Rejections.Api\\Program.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Program.cs",
-              "RelativeToolTip": "Rejections.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T20:47:17.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RejectionDbContext.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Storage\\RejectionDbContext.cs",
-              "RelativeDocumentMoniker": "Rejections.Storage\\RejectionDbContext.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Storage\\RejectionDbContext.cs",
-              "RelativeToolTip": "Rejections.Storage\\RejectionDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T20:46:50.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Program.cs",
-              "RelativeDocumentMoniker": "User.Api\\Program.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Program.cs",
-              "RelativeToolTip": "User.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T20:41:47.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserDbContext.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\UserDbContext.cs",
-              "RelativeDocumentMoniker": "User.Storage\\UserDbContext.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Storage\\UserDbContext.cs",
-              "RelativeToolTip": "User.Storage\\UserDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:07:21.026Z",
+              "DocumentIndex": 2,
+              "Title": "External.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\External.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Home\\External.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\External.cshtml",
+              "RelativeToolTip": "Website\\Views\\Home\\External.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T17:41:03.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "User.Api\\Services\\UserService.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Services\\UserService.cs",
-              "RelativeToolTip": "User.Api\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Website\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T17:39:13.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfileResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Resolvers\\ProfileResolver.cs",
+              "RelativeDocumentMoniker": "Website\\Resolvers\\ProfileResolver.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Resolvers\\ProfileResolver.cs",
+              "RelativeToolTip": "Website\\Resolvers\\ProfileResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T18:56:49.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T12:08:52.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Website\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Website\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvzIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:04:14.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RejectionResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Resolvers\\RejectionResolver.cs",
+              "RelativeDocumentMoniker": "Website\\Resolvers\\RejectionResolver.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Resolvers\\RejectionResolver.cs",
+              "RelativeToolTip": "Website\\Resolvers\\RejectionResolver.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:10:10.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatingSiteController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Controllers\\DatingSiteController.cs",
+              "RelativeDocumentMoniker": "Website\\Controllers\\DatingSiteController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Controllers\\DatingSiteController.cs",
+              "RelativeToolTip": "Website\\Controllers\\DatingSiteController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv6wAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:45.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Program.cs",
+              "RelativeDocumentMoniker": "Website\\Program.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Program.cs",
+              "RelativeToolTip": "Website\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:10:53.362Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "User.Api\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\User.Api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "User.Api\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T18:56:39.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RejectionController.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Controllers\\RejectionController.cs",
-              "RelativeDocumentMoniker": "Rejections.Api\\Controllers\\RejectionController.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Controllers\\RejectionController.cs",
-              "RelativeToolTip": "Rejections.Api\\Controllers\\RejectionController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAIwBsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:58:01.308Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Website\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T18:01:04.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RejectionService.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Services\\RejectionService.cs",
-              "RelativeDocumentMoniker": "Rejections.Api\\Services\\RejectionService.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Services\\RejectionService.cs",
-              "RelativeToolTip": "Rejections.Api\\Services\\RejectionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:02:37.972Z",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Website\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T17:55:05.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
+              "Title": "ExternalUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\ExternalDto\\ExternalUserDto.cs",
+              "RelativeDocumentMoniker": "Website\\ExternalDto\\ExternalUserDto.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\ExternalDto\\ExternalUserDto.cs",
+              "RelativeToolTip": "Website\\ExternalDto\\ExternalUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:48:15.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Website\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T12:13:40.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Resolvers\\UserResolver.cs",
+              "RelativeDocumentMoniker": "Website\\Resolvers\\UserResolver.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Resolvers\\UserResolver.cs",
+              "RelativeToolTip": "Website\\Resolvers\\UserResolver.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:10:14.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RejectionController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Controllers\\RejectionController.cs",
+              "RelativeDocumentMoniker": "Rejections.Api\\Controllers\\RejectionController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Controllers\\RejectionController.cs",
+              "RelativeToolTip": "Rejections.Api\\Controllers\\RejectionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:58:01.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "Website\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T12:13:59.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "User.Api\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\Services\\UserService.cs",
+              "RelativeToolTip": "User.Api\\Services\\UserService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:56:49.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "User.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "User.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:56:39.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExternalUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Controllers\\ExternalUserController.cs",
+              "RelativeDocumentMoniker": "ExternalUser.Api\\Controllers\\ExternalUserController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Controllers\\ExternalUserController.cs",
+              "RelativeToolTip": "ExternalUser.Api\\Controllers\\ExternalUserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwEUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:03:17.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CrudServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Api\\CrudServiceBase.cs",
+              "RelativeDocumentMoniker": "Common.Api\\CrudServiceBase.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Common.Api\\CrudServiceBase.cs",
+              "RelativeToolTip": "Common.Api\\CrudServiceBase.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAewG4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:02:45.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProfilServices.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Profil.Service\\Services\\ProfilServices.cs",
+              "RelativeDocumentMoniker": "Profil.Service\\Services\\ProfilServices.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Profil.Service\\Services\\ProfilServices.cs",
+              "RelativeToolTip": "Profil.Service\\Services\\ProfilServices.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:02:17.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProfilController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Profil.Service\\Controllers\\ProfilController.cs",
+              "RelativeDocumentMoniker": "Profil.Service\\Controllers\\ProfilController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Profil.Service\\Controllers\\ProfilController.cs",
+              "RelativeToolTip": "Profil.Service\\Controllers\\ProfilController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:03:22.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProfileData.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Models\\ProfileData.cs",
+              "RelativeDocumentMoniker": "Website\\Models\\ProfileData.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Models\\ProfileData.cs",
+              "RelativeToolTip": "Website\\Models\\ProfileData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:59.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ratedProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Models\\ratedProfile.cs",
+              "RelativeDocumentMoniker": "Website\\Models\\ratedProfile.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Models\\ratedProfile.cs",
+              "RelativeToolTip": "Website\\Models\\ratedProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:10:05.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAPoAAAAAAAAAAAAkwBEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-30T15:02:47.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "Rejections.Api\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "Rejections.Api\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:29:12.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Profil.Service\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Profil.Service\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Profil.Service\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Profil.Service\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:29:42.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ExternalUser.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Program.cs",
+              "RelativeToolTip": "ExternalUser.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:30:36.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Profil.Service\\Program.cs",
+              "RelativeDocumentMoniker": "Profil.Service\\Program.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Profil.Service\\Program.cs",
+              "RelativeToolTip": "Profil.Service\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:30:00.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "ExternalUser.Api\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "ExternalUser.Api\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:30:29.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\ExternalDto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Website\\ExternalDto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\ExternalDto\\UserDto.cs",
+              "RelativeToolTip": "Website\\ExternalDto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:34.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\ExternalDto\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "Website\\ExternalDto\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\ExternalDto\\ProfileDto.cs",
+              "RelativeToolTip": "Website\\ExternalDto\\ProfileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:23.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RejectionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\RejectionDbContext.cs",
+              "RelativeDocumentMoniker": "Rejections.Storage\\RejectionDbContext.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\RejectionDbContext.cs",
+              "RelativeToolTip": "Rejections.Storage\\RejectionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:46:50.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\Program.cs",
+              "RelativeDocumentMoniker": "User.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Api\\Program.cs",
+              "RelativeToolTip": "User.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:41:47.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Rejections.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Program.cs",
+              "RelativeToolTip": "Rejections.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:47:17.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Home\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\Views\\Home\\UserProfile.cshtml",
+              "RelativeToolTip": "Website\\Views\\Home\\UserProfile.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T12:14:05.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240530122314_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\Migrations\\20240530122314_Init.cs",
+              "RelativeDocumentMoniker": "Rejections.Storage\\Migrations\\20240530122314_Init.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\Migrations\\20240530122314_Init.cs",
+              "RelativeToolTip": "Rejections.Storage\\Migrations\\20240530122314_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:23:14.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RejectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\ExternalDto\\RejectionDto.cs",
+              "RelativeDocumentMoniker": "Website\\ExternalDto\\RejectionDto.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Website\\ExternalDto\\RejectionDto.cs",
+              "RelativeToolTip": "Website\\ExternalDto\\RejectionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:30.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Webpage",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Webpage.csproj",
+              "RelativeDocumentMoniker": "Webpage\\Webpage.csproj",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Webpage.csproj",
+              "RelativeToolTip": "Webpage\\Webpage.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T11:57:54.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240530114434_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\Migrations\\20240530114434_Init.cs",
+              "RelativeDocumentMoniker": "User.Storage\\Migrations\\20240530114434_Init.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\Migrations\\20240530114434_Init.cs",
+              "RelativeToolTip": "User.Storage\\Migrations\\20240530114434_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:44:34.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Pages\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Webpage\\Pages\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Pages\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Webpage\\Pages\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T11:43:07.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "User.Storage\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\User.Storage\\UserDbContext.cs",
+              "RelativeToolTip": "User.Storage\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:07:21.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ExternalUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Services\\ExternalUserServices.cs",
+              "RelativeDocumentMoniker": "ExternalUser.Api\\Services\\ExternalUserServices.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\ExternalUser.Api\\Services\\ExternalUserServices.cs",
+              "RelativeToolTip": "ExternalUser.Api\\Services\\ExternalUserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:02:01.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Webpage\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Webpage\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:16:57.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DatingSiteController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Controllers\\DatingSiteController.cs",
+              "RelativeDocumentMoniker": "Webpage\\Controllers\\DatingSiteController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Controllers\\DatingSiteController.cs",
+              "RelativeToolTip": "Webpage\\Controllers\\DatingSiteController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwHQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:20:40.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Pages\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Webpage\\Pages\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Pages\\Home\\Profile.cshtml",
+              "RelativeToolTip": "Webpage\\Pages\\Home\\Profile.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T11:23:51.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RejectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Services\\RejectionService.cs",
+              "RelativeDocumentMoniker": "Rejections.Api\\Services\\RejectionService.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Services\\RejectionService.cs",
+              "RelativeToolTip": "Rejections.Api\\Services\\RejectionService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:02:37.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "RejectionExtension.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Extensions\\RejectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Extensions\\RejectionExtension.cs",
               "RelativeDocumentMoniker": "Rejections.Api\\Extensions\\RejectionExtension.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Api\\Extensions\\RejectionExtension.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Api\\Extensions\\RejectionExtension.cs",
               "RelativeToolTip": "Rejections.Api\\Extensions\\RejectionExtension.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:57:33.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T16:57:33.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 44,
               "Title": "RejectionDto.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Dtos\\RejectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Dtos\\RejectionDto.cs",
               "RelativeDocumentMoniker": "Rejections.CrossCutting\\Dtos\\RejectionDto.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Dtos\\RejectionDto.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.CrossCutting\\Dtos\\RejectionDto.cs",
               "RelativeToolTip": "Rejections.CrossCutting\\Dtos\\RejectionDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:57:22.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T16:57:22.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 45,
               "Title": "Rejection.cs",
-              "DocumentMoniker": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Storage\\Entities\\Rejection.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\Entities\\Rejection.cs",
               "RelativeDocumentMoniker": "Rejections.Storage\\Entities\\Rejection.cs",
-              "ToolTip": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Rejections.Storage\\Entities\\Rejection.cs",
+              "ToolTip": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Rejections.Storage\\Entities\\Rejection.cs",
               "RelativeToolTip": "Rejections.Storage\\Entities\\Rejection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:57:16.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T16:57:16.778Z"
             }
           ]
         }

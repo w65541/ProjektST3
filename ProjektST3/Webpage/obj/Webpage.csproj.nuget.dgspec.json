@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Webpage\\Webpage.csproj": {}
+    "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Webpage.csproj": {}
   },
   "projects": {
-    "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Webpage\\Webpage.csproj": {
+    "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Webpage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Webpage\\Webpage.csproj",
+        "projectUniqueName": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Webpage.csproj",
         "projectName": "Webpage",
-        "projectPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Webpage\\Webpage.csproj",
-        "packagesPath": "C:\\Users\\Glowny\\.nuget\\packages\\",
-        "outputPath": "D:\\Aplikacje\\xampp\\htdocs\\studia\\st3 sem6 projekt\\ProjektST3\\ProjektST3\\Webpage\\obj\\",
+        "projectPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\Webpage.csproj",
+        "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Filip\\Documents\\GitHub\\ProjektST3\\ProjektST3\\Webpage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Glowny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -85,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,100 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	padding-top: 50px;
+	min-height: 100vh;
+	display: flex;
+	width: 100%;
+	height: 100%;
+	flex-direction: column;
+	
+	/*   background-color: lightpink; 
+		background-size: cover;
+	*/
+}
+
+.nav-link {
+	color: black;
+	text-decoration: none;
+}
+
+.navbar {
+	margin-bottom: 20px;
+	font-weight: bold;
+	background-color: hotpink;
+	/*	color: green; */
+}
+	.navbar-dark .navbar-nav .nav-link {
+		color: rgba(255,255,255,.8);
+	}
+	.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+		color: rgba(255,255,255);
+	}
+
+/*#kontoUL {
+	margin-left: auto !important; *//*ml-auto ma to w sobie*//*
+	margin-right: 10%;
+}*/
+
+.section {
+	margin-bottom: 40px;
+
+}
+
+.search-section {
+	margin-top: 20px;
+}
+
+.container-fluid {
+	
+}
+
+/* Styl profilu u¿ytkownika */
+.user-profile {
+	text-align: center;
+}
+	.user-profile img {
+		width: 200px;
+		height: 200px;
+		border-radius: 50%;
+		object-fit: cover;
+		margin-bottom: 10px;
+	}
+
+footer {
+	background-color: hotpink;
+	color: #fff;
+	padding: 20px 0;
+	margin-top: auto;
+}
+.card-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	flex-grow: 1;
+	margin-bottom: 20px;
+}
+
+	.card-container .card {
+	}
+
+		.card-container .card .square-img-wrapper {
+			position: relative;
+			width: 100%;
+			padding-bottom: 100%;
+			overflow: hidden;
+		}
+
+			.card-container .card .square-img-wrapper img {
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+			}
+
+		.card-container .card .card-body {
+			padding: 10px;
+		}
+
+

@@ -27,3 +27,18 @@ D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.S
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.pdb
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.genruntimeconfig.cache
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\ref\Common.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\bin\Debug\net8.0\Common.Storage.deps.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\bin\Debug\net8.0\Common.Storage.runtimeconfig.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\bin\Debug\net8.0\Common.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\bin\Debug\net8.0\Common.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.csproj.AssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.AssemblyInfo.cs
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.sourcelink.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\refint\Common.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\Common.Storage.genruntimeconfig.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Common.Storage\obj\Debug\net8.0\ref\Common.Storage.dll

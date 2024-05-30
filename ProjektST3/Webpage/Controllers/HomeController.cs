@@ -7,7 +7,6 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Webpage.Models;
-using Storage.Models;
 using Webpage.ExternalDto;
 using Webpage.Resolvers;
 namespace Webpage.Controllers
@@ -15,14 +14,15 @@ namespace Webpage.Controllers
     public class HomeController : Controller
     {
         private readonly ProfileResolver _profile;
-        private readonly datingsiteContext _context;
+       
         private readonly ILogger<HomeController> _logger;
         public int UserId;
         public ProfileDto Userr;
-        public HomeController(ILogger<HomeController> logger, datingsiteContext context)
+
+        public HomeController(ILogger<HomeController> logger, ProfileResolver profile)
         {
             _logger = logger;
-            _context = context;
+            _profile = profile;
         }
         public IActionResult Login()
         {
@@ -45,7 +45,7 @@ namespace Webpage.Controllers
         [HttpGet]
         public IActionResult Index(int id) {
 
-                Userr = _context.Profils.Where(x => x.IdUser == id).ToList().First();
+                Userr = _profile.GetById(id);
                 return View(Userr);
 
         }
@@ -53,7 +53,7 @@ namespace Webpage.Controllers
         public IActionResult UserProfile(int id)
         {
 
-            Userr = _context.Profils.Where(x => x.IdUser == id).ToList().First();
+            Userr = _profile.GetById(id);
             return View(Userr);
 
         }

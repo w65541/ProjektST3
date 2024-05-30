@@ -33,3 +33,21 @@ D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejectio
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.pdb
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.genruntimeconfig.cache
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\ref\Rejections.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Rejections.Storage.deps.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Rejections.Storage.runtimeconfig.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Rejections.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Rejections.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Common.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\bin\Debug\net8.0\Common.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.csproj.AssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.AssemblyInfo.cs
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.sourcelink.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejectio.7317EAD9.Up2Date
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\refint\Rejections.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\Rejections.Storage.genruntimeconfig.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\Rejections.Storage\obj\Debug\net8.0\ref\Rejections.Storage.dll

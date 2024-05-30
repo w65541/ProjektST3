@@ -33,3 +33,21 @@ D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\External
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.pdb
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.genruntimeconfig.cache
 D:\Aplikacje\xampp\htdocs\studia\st3 sem6 projekt\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ref\ExternalUser.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\ExternalUser.Storage.deps.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\ExternalUser.Storage.runtimeconfig.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\ExternalUser.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\ExternalUser.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\Common.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\bin\Debug\net8.0\Common.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.csproj.AssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.AssemblyInfo.cs
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.sourcelink.json
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\External.FF089F0E.Up2Date
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\refint\ExternalUser.Storage.dll
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.pdb
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ExternalUser.Storage.genruntimeconfig.cache
+C:\Users\Filip\Documents\GitHub\ProjektST3\ProjektST3\ExternalUser.Storage\obj\Debug\net8.0\ref\ExternalUser.Storage.dll

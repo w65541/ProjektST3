@@ -41,9 +41,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{8D6615
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Storage", "Common.Storage\Common.Storage.csproj", "{3D968FAF-D35F-4594-B7D6-4D5FFFD65B39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Api", "Common.Api\Common.Api.csproj", "{F9838124-37CB-4818-AEC5-29737257169C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Api", "Common.Api\Common.Api.csproj", "{F9838124-37CB-4818-AEC5-29737257169C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.CrossCutting", "Common.CrossCutting\Common.CrossCutting.csproj", "{9838001A-EECD-4A34-95CD-DACBFFDB15D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.CrossCutting", "Common.CrossCutting\Common.CrossCutting.csproj", "{9838001A-EECD-4A34-95CD-DACBFFDB15D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website", "Website\Website.csproj", "{0E793B63-9CD1-4835-94CB-04FF236DD854}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -115,6 +117,10 @@ Global
 		{9838001A-EECD-4A34-95CD-DACBFFDB15D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9838001A-EECD-4A34-95CD-DACBFFDB15D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9838001A-EECD-4A34-95CD-DACBFFDB15D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E793B63-9CD1-4835-94CB-04FF236DD854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E793B63-9CD1-4835-94CB-04FF236DD854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E793B63-9CD1-4835-94CB-04FF236DD854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E793B63-9CD1-4835-94CB-04FF236DD854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

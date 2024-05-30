@@ -24,10 +24,10 @@ namespace Storage.Controllers
 
         private readonly ILogger<DatingSiteController> _logger;
 
-        public DatingSiteController(ILogger<DatingSiteController> logger, datingsiteContext context)
+        public DatingSiteController(ILogger<DatingSiteController> logger, ProfileResolver profile)
         {
             _logger = logger;
-            _context = context;
+            _profile = profile;
         }
 
         //Funkcja zwraca id użytkownika przy poprawnym logowaniu
@@ -58,12 +58,11 @@ namespace Storage.Controllers
 
 
         //Usuwa wszystko związane z danym użytkownikiem o podannym id
-        [HttpGet("ProfileDelete")]
+       /* [HttpGet("ProfileDelete")]
         public int DeleteProfile(int id)
         {
-            var temp=_context.Profils.Where(x => x.Id == id).ToList();
-            if (temp.Count > 0) {
-                int temp2 = temp.First().IdUser;
+            var temp=_profile.GetById(id);
+            if (temp!=null) {
                 _context.Rejections.RemoveRange(_context.Rejections.Where(x=>x.Rejectee==temp.First().Id).ToList());
                 _context.Profils.Remove(temp.First());
                 _context.Users.Remove(_context.Users.Where(x=>x.Id==temp2).ToList().First());
@@ -115,7 +114,7 @@ namespace Storage.Controllers
                 return 0;
             }
             return 1;
-        }
+        }*/
 
         //dodaje do odrzuconych danego użytkownika odrzucanego o podanym id
         [HttpGet("Reject")]
